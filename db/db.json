@@ -1,0 +1,161 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "overview": "Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides.",
+      "poster_path": "https://image.tmdb.org/t/p/original/mDeUmPe4MF35WWlAqj4QFX5UauJ.jpg",
+      "release_date": "2024-01-18",
+      "title": "No Way Up",
+      "video": false,
+      "vote_average": 6.031
+    },
+    {
+      "id": "2",
+      "overview": "In a world where superpowered people are heavily policed by robots, an ex-con teams up with a drug lord he despises to protect a teen from a corrupt cop.",
+      "poster_path": "https://image.tmdb.org/t/p/original/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+      "release_date": "2024-02-27",
+      "title": "Code 8 Part II",
+      "vote_average": 6.658
+    },
+    {
+      "id": "3",
+      "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+      "poster_path": "https://image.tmdb.org/t/p/original/gJL5kp5FMopB2sN4WZYnNT5uO0u.jpg",
+      "release_date": "2024-03-02",
+      "title": "Kung Fu Panda 4",
+      "vote_average": 7.3
+    },
+    {
+      "id": "4",
+      "overview": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+      "poster_path": "https://image.tmdb.org/t/p/original/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg",
+      "release_date": "2024-03-01",
+      "title": "Megamind vs. the Doom Syndicate",
+      "vote_average": 5.594
+    },
+    {
+      "id": "5",
+      "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+      "poster_path": "https://image.tmdb.org/t/p/original/meyhnvssZOPPjud4F1CjOb4snET.jpg",
+      "release_date": "2023-12-06",
+      "title": "Migration",
+      "vote_average": 7.576
+    },
+    {
+      "id": "6",
+      "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "poster_path": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+      "release_date": "2024-02-27",
+      "title": "Dune: Part Two",
+      "vote_average": 8.429
+    },
+    {
+      "id": "7",
+      "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+      "poster_path": "https://image.tmdb.org/t/p/original/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+      "release_date": "2024-01-25",
+      "title": "Land of Bad",
+      "vote_average": 6.918
+    },
+    {
+      "id": "8",
+      "original_language": "en",
+      "original_title": "Poor Things",
+      "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+      "poster_path": "https://image.tmdb.org/t/p/original/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+      "release_date": "2023-12-07",
+      "title": "Poor Things",
+      "vote_average": 7.915
+    },
+    {
+      "id": "9",
+      "overview": "After a meteor collides into Earth, a lonely rancher and a lost young girl are on the run from vicious mercenaries.",
+      "poster_path": "https://image.tmdb.org/t/p/original/hIUs8RzKlrzgbWxn2EpWmiTFqCc.jpg",
+      "release_date": "2021-09-01",
+      "title": "Meteor",
+      "vote_average": 5.444
+    },
+    {
+      "id": "10",
+      "overview": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "poster_path": "https://image.tmdb.org/t/p/original/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+      "release_date": "2023-12-21",
+      "title": "Anyone But You",
+      "vote_average": 7
+    },
+    {
+      "id": "11",
+      "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+      "poster_path": "https://image.tmdb.org/t/p/original/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
+      "release_date": "2023-12-06",
+      "title": "Wonka",
+      "vote_average": 7.194
+    },
+    {
+      "id": "12",
+      "overview": "A high school coach, whose teenage daughter was murdered, takes matters into his own hands by going after the men who kidnap his students for their sex trafficking operation.",
+      "poster_path": "https://image.tmdb.org/t/p/original/td2NcEUn7MPWzpFFjvHLsVQ2pkZ.jpg",
+      "release_date": "2023-12-14",
+      "title": "Ruthless",
+      "vote_average": 6.556
+    },
+    {
+      "id": "13",
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "poster_path": "https://image.tmdb.org/t/p/original/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+      "release_date": "2021-09-15",
+      "title": "Dune",
+      "vote_average": 7.786
+    },
+    {
+      "id": "14",
+      "overview": "When the plots of reclusive author Elly Conway's fictional espionage novels begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past. Accompanied by her cat Alfie and Aiden, a cat-allergic spy, Elly races across the world to stay one step ahead of the killers as the line between Conway's fictional world and her real one begins to blur.",
+      "poster_path": "https://image.tmdb.org/t/p/original/xvk5AhfhgQcTuaCQyq3XqAnhEma.jpg",
+      "release_date": "2024-01-31",
+      "title": "Argylle",
+      "vote_average": 6.123
+    },
+    {
+      "id": "15",
+      "overview": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+      "poster_path": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "release_date": "2024-01-08",
+      "title": "The Beekeeper",
+      "vote_average": 7.453
+    },
+    {
+      "id": "16",
+      "overview": "Cash is trying to live a quiet, honest life in a small Appalachian town. When a vicious crime boss forces him back into her services, he soon learns he's capable of anything -- even killing -- to protect his family and his home.",
+      "poster_path": "https://image.tmdb.org/t/p/original/xi2pblvQtCnh26SeOYzx1YX3DLT.jpg",
+      "release_date": "2024-02-22",
+      "title": "Red Right Hand",
+      "vote_average": 7
+    },
+    {
+      "id": "17",
+      "overview": "During a research mission, an astronaut discovers that his marriage is in trouble. Luckily, he has the help of a mysterious creature hidden in his ship.",
+      "poster_path": "https://image.tmdb.org/t/p/original/824e60sDlEXUP1vXCYNqh5RSlI5.jpg",
+      "release_date": "2024-02-23",
+      "title": "Spaceman",
+      "vote_average": 6.677
+    },
+    {
+      "id": "18",
+      "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "poster_path": "https://image.tmdb.org/t/p/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+      "release_date": "2023-11-08",
+      "title": "The Marvels",
+      "vote_average": 6.22
+    },
+    {
+      "id": 19,
+      "title": "dadada",
+      "overview": "dada",
+      "poster_path": "dada",
+      "release_date": "dada",
+      "vote_average": "dadaad"
+    }
+  ]
+}
